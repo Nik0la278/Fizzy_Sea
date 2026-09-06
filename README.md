@@ -11,6 +11,7 @@ A 3D adventure game about a pirate fox skeletons on fire with a water gun!
 * Movement mechanics featuring sprinting and jumping.
 
 ### Controls
+* **Left Mouse Click**: Shoot
 * **WASD**: Movement
 * **Space**: Jump
 * **L Shift**: Sprint
