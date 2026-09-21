@@ -16,6 +16,7 @@ A 3D adventure game about a pirate fox skeletons on fire with a water gun!
 * **Space**: Jump
 * **L Shift**: Sprint
 * **C**: Switch camera perspective
+* **L-Click**: Shoot projectile
 
 ---
 Created by Nikola278 for the Stardance challenge.
